@@ -1,4 +1,8 @@
-**Product Market Research Automation with Amazon Scraper**
+# Product Market Research Automation with Amazon Scraper
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![AWS Rekognition](https://img.shields.io/badge/AWS%20Rekognition-Ready-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -30,8 +34,6 @@ A collection of utility functions essential for enhancing the robustness and fun
 
 2. **Image Scraping**: In parallel, the `scrape_amazon_images.py` script taps into the visual dimension of product research by retrieving product images from Amazon listings. Employing requests and DOM manipulation, it downloads and organizes images into an "Images" subfolder within each product directory, enriching the dataset with compelling visual assets.
 
-3. **Synergistic Execution**: These scripts synergize seamlessly, combining textual insights and visual stimuli to empower Shopify store owners with a holistic understanding of potential products. By harnessing the power of automation, manual labor is minimized, enabling swift and efficient market research tailored to your store's needs.
-
 ---
 
 ## Usage
@@ -46,7 +48,7 @@ A collection of utility functions essential for enhancing the robustness and fun
 
 ## Conclusion
 
-With these sophisticated tools at your disposal, navigating the competitive landscape of e-commerce has never been easier. Harness the power of automation to elevate your Shopify store's product offerings, streamline your decision-making processes, and unlock new avenues for growth and profitability.
+With these sophisticated tools at your disposal, navigating the competitive landscape of e-commerce has never been easier. Harness the power of automation to elevate your store's product offerings, streamline your decision-making processes, and unlock new avenues for growth and profitability.
 
 ---
 
