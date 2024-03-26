@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a suite of Python scripts designed to automate product market research for Shopify stores. Leveraging web scraping techniques, these scripts empower e-commerce entrepreneurs with comprehensive insights into product pricing, details, and images sourced from Amazon. By seamlessly integrating into your workflow, these tools eliminate the tedious manual tasks associated with product research, allowing you to focus on strategic decisions to optimize your store's offerings.
+This repository contains a suite of Python scripts designed to automate product market research. Leveraging web scraping techniques, these scripts empower e-commerce entrepreneurs with comprehensive insights into product pricing, details, and images sourced from Amazon. By seamlessly integrating into your workflow, these tools eliminate the tedious manual tasks associated with product research, allowing you to focus on strategic decisions to optimize your store's offerings.
 
 ---
 
